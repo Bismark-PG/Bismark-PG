@@ -43,7 +43,7 @@ For more detailed information, please click the portfolio link below!
  
  - ### 🚀 Expanding Development Experience
    + Deepening my hands-on experience with **Unity**.
-   + Broadening my skills by exploring other engines like **Unreal and Godot**.
+   + Broadening my development skills with other engines like **Unreal and Godot** or etc.
 
  - ### 🌱 Exploring New Technologies
    + Studying web-related languages **(HTML, CSS, JavaScript)**.
