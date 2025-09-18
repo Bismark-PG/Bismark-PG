@@ -35,19 +35,19 @@ For more detailed information, please click the portfolio link below!
 ## 🎯 Objectives
  
  - ### 💼 Main Objective
-   + Secure a position in the game industry.
-
+   + Secure a position in the **game industry**.
 
  - ### 💻 Deepening Programming Skills
-   + Mastering C/C++ & DirectX for high-performance game development.
-   + Strengthening my knowledge of C#.
+   + Mastering **C/C++ & DirectX** for high-performance game development.
+   + Strengthening my knowledge of **C#**.
  
  - ### 🚀 Expanding Development Experience
-   + Gaining more hands-on experience with Unity & Unreal Engine.
+   + Deepening my hands-on experience with **Unity**.
+   + Broadening my skills by exploring other engines like **Unreal and Godot**.
 
  - ### 🌱 Exploring New Technologies
-   + Studying web-related languages (HTML, CSS, JavaScript).
-   + Building and managing a game server.
+   + Studying web-related languages **(HTML, CSS, JavaScript)**.
+   + Building and managing a **game server**.
 
 ---
 
