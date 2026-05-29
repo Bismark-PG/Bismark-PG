@@ -51,6 +51,18 @@ For more detailed information, please click the portfolio link below!
 
 ---
 
+## 📅 Project Roadmap
+
+ - ### 🛠️ In Active Developmen
+   + [2.5D Rail Shooter](https://github.com/Bismark-PG/Neon)
+     > A high-speed 2.5D rail shooter that actively utilizes a billboard system for dynamic pseudo-3D visuals.
+
+ - ### ⏳ Upcoming Project Concept
+   + 2D Pixel-Art Psychological Horror Adventure.
+     > A story-driven, RPG Maker-style horror game based on unique personal dream concepts.
+
+---
+
 ## 📞 Contact & Links
 
 - 🔗 [GitHub](https://github.com/Bismark-PG)
